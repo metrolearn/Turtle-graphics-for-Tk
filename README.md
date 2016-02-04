@@ -1,2 +1,2 @@
-# Turtle-graphics-for-Tk - At Metropolitan Learning Center
+# Turtle-graphics example programs
 Code snippits for turtle graphics
